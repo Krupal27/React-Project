@@ -1,0 +1,11 @@
+{
+    "userdata":[
+        {
+            "id":1,
+            "name":"Krupal",
+            "email":"krupal123@gmail.com",
+            "password":"krupal@123",
+            "role":"1"
+        }
+    ]
+}
